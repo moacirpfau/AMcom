@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\application\\handlers\\commands\\movimentarcontacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\commands\\movimentarcontacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\dapperqueryexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\dapperqueryexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\application\\commands\\requests\\movimentarcontacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\requests\\movimentarcontacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|solutionrelative:questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\application\\queries\\requests\\consultarsaldoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\requests\\consultarsaldoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\application\\handlers\\queries\\consultarsaldoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\queries\\consultarsaldoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\services\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\sqlite\\sqliteconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\sqliteconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\idempotencystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\idempotencystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\application\\commands\\responses\\movimentarcontaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\responses\\movimentarcontaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\application\\queries\\responses\\saldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\responses\\saldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao1\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|solutionrelative:questao1\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|solutionrelative:questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moaci\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\buildTransitive\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\commandstore\\requests\\salvarmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\requests\\salvarmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\querystore\\responses\\consultarsaldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\responses\\consultarsaldoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\commandstore\\responses\\salvarmovimentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\responses\\salvarmovimentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\querystore\\requests\\consultarsaldorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\querystore\\requests\\consultarsaldorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\moaci\\downloads\\teste de c# da ailos\\questao5\\infrastructure\\database\\commandstore\\commandstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\commandstore\\commandstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\TestQuestao5\\ConsultarSaldoQueryHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestQuestao5\\ConsultarSaldoQueryHandlerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 37,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1669142019:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DapperQueryExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\DapperQueryExecutor.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\DapperQueryExecutor.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\DapperQueryExecutor.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\DapperQueryExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:02:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentarContaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Handlers\\Commands\\MovimentarContaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\Commands\\MovimentarContaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Handlers\\Commands\\MovimentarContaCommandHandler.cs*",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\Commands\\MovimentarContaCommandHandler.cs*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:05:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultarSaldoQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Handlers\\Queries\\ConsultarSaldoQueryHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\Queries\\ConsultarSaldoQueryHandler.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Handlers\\Queries\\ConsultarSaldoQueryHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\Queries\\ConsultarSaldoQueryHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:35:22.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultarSaldoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Queries\\Requests\\ConsultarSaldoQuery.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Requests\\ConsultarSaldoQuery.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Queries\\Requests\\ConsultarSaldoQuery.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Requests\\ConsultarSaldoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:07:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao2\\Program.cs",
+              "RelativeDocumentMoniker": "Questao2\\Program.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao2\\Program.cs",
+              "RelativeToolTip": "Questao2\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:04:46.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimentarContaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Commands\\Requests\\MovimentarContaCommand.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\Requests\\MovimentarContaCommand.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Commands\\Requests\\MovimentarContaCommand.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\Requests\\MovimentarContaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:05:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqliteConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Sqlite\\SqliteConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\SqliteConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Sqlite\\SqliteConnectionFactory.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\SqliteConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:21:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdempotencyStore.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\IdempotencyStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\IdempotencyStore.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\IdempotencyStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\IdempotencyStore.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:48:30.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:05:02.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseBootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:58:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovimentarContaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Commands\\Responses\\MovimentarContaResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\Responses\\MovimentarContaResponse.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Commands\\Responses\\MovimentarContaResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\Responses\\MovimentarContaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:47:45.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaController.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Services\\Controllers\\ContaController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\ContaController.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Services\\Controllers\\ContaController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\ContaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:37:14.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaldoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Responses\\SaldoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:47:41.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:06:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao1\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Questao1\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao1\\ContaBancaria.cs",
+              "RelativeToolTip": "Questao1\\ContaBancaria.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:10:00.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao1\\Program.cs",
+              "RelativeDocumentMoniker": "Questao1\\Program.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao1\\Program.cs",
+              "RelativeToolTip": "Questao1\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:09:53.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalvarMovimentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\SalvarMovimentoRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\SalvarMovimentoRequest.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\SalvarMovimentoRequest.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\Requests\\SalvarMovimentoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:32:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsultarSaldoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\ConsultarSaldoResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\ConsultarSaldoResponse.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\ConsultarSaldoResponse.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\Responses\\ConsultarSaldoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:33:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SalvarMovimentoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\SalvarMovimentoResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\SalvarMovimentoResponse.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\SalvarMovimentoResponse.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\Responses\\SalvarMovimentoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:07:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\buildTransitive\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\buildTransitive\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\moaci\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\buildTransitive\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\buildTransitive\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:05:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsultarSaldoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ConsultarSaldoRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ConsultarSaldoRequest.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ConsultarSaldoRequest.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\QueryStore\\Requests\\ConsultarSaldoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:31:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsultarSaldoQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\TestQuestao5\\ConsultarSaldoQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "TestQuestao5\\ConsultarSaldoQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\TestQuestao5\\ConsultarSaldoQueryHandlerTests.cs",
+              "RelativeToolTip": "TestQuestao5\\ConsultarSaldoQueryHandlerTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:49:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommandStore.cs",
+              "DocumentMoniker": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\CommandStore\\CommandStore.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\CommandStore\\CommandStore.cs",
+              "ToolTip": "C:\\Users\\moaci\\Downloads\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Database\\CommandStore\\CommandStore.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\CommandStore\\CommandStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:07:36.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
